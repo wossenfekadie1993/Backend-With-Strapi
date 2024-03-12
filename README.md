@@ -7,23 +7,20 @@ To get started with this project, follow these steps:
 
 Clone the Repository:
 
-bash
-Copy code
-git clone <repository-url>
+git clone https://github.com/wossenfekadie1993/Backend-With-Strapi
+
 Install Dependencies:
 
-Copy code
 npm install
 Run Strapi:
 
 arduino
-Copy code
 npm run develop
 Access Strapi Admin Panel:
 Open your browser and go to http://localhost:1337/admin to access the Strapi admin panel.
 
-Documentation
+<h5>Documentation</h5>
 For detailed documentation and guides on using Strapi, refer to the official Strapi documentation.
 
-Contributing
+<h5>Contributing</h5>  
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
