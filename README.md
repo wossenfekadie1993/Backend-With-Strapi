@@ -5,28 +5,22 @@ This repository contains my Strapi project where I'll be developing a [brief des
 Getting Started
 To get started with this project, follow these steps:
 
-[Hash Sign(#)][Space]Any Header/subtitle or any text you want starting with hash
-[Tab][Tab]Your text
 
-# <h3>back end with strapi</h3>
-    my text
+# <h3>Clone the Repository:</h3>
+        git clone https://github.com/wossenfekadie1993/Backend-With-Strapi
 
-Clone the Repository:
+# <h3>Install Dependencies:</h3>
+        npm install
 
-git clone https://github.com/wossenfekadie1993/Backend-With-Strapi
+# <h3>Run Strapi:</h3>
+        npm run develop
 
-Install Dependencies:
+#<h3>Access Strapi Admin Panel:</h3>
+        Open your browser and go to http://localhost:1337/admin to access the Strapi admin panel.
 
-npm install
-Run Strapi:
 
-arduino
-npm run develop
-Access Strapi Admin Panel:
-Open your browser and go to http://localhost:1337/admin to access the Strapi admin panel.
-
-<h5>Documentation</h5>
+# <h5>Documentation</h5>
 For detailed documentation and guides on using Strapi, refer to the official Strapi documentation.
 
-<h5>Contributing</h5>  
+# <h5>Contributing</h5>  
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
